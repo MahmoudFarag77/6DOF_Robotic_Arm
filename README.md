@@ -32,10 +32,10 @@ This project presents the mechanical design of a **6-Degree-of-Freedom (6-DOF) r
 
 ## 📸 Screenshots
 
-![Base Link](renders/Base.png)
-![Link 1](renders/Link1.png)
-![Link 2](renders/Link2.png)
-![Link 3](renders/Link3.png)
-![End Effector](renders/Link4.png)
-![Assembly View](renders/Assembly.png)
-![Assembly View](renders/Assembly2.png)
+![Base Link](Renders/Base.png)
+![Link 1](Renders/Link1.png)
+![Link 2](Renders/Link2.png)
+![Link 3](Renders/Link3.png)
+![End Effector](Renders/Link4.png)
+![Assembly View](Renders/Assembly.png)
+![Assembly View](Renders/Assembly2.png)
