@@ -11,7 +11,7 @@ This project presents the mechanical design of a **6-Degree-of-Freedom (6-DOF) r
 - `Assembly`: Full robotic arm assembled using mechanical mates
 
 ## 🎥 Demo
-![Demo](media/demo.gif)
+![Demo](Media/demo.gif)
 
 ## 💡 Skills Demonstrated
 - SolidWorks 3D Modeling (Parts and Assemblies)
